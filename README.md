@@ -1,4 +1,3 @@
-[profile-README (1).md](https://github.com/user-attachments/files/31889080/profile-README.1.md)
 
 # Hi, I'm Luca 👋
 
