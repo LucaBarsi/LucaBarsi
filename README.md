@@ -12,7 +12,7 @@ I'm a biomedical scientist with a background in laboratory diagnostics, currentl
 
 **An end-to-end healthcare data and AI prototype built with synthetic HL7 FHIR R4 records.**
 
-**[Launch Live Demo](https://datahealth-ai.streamlit.app/)** | **[Explore Source Code & Documentation](https://github.com/LucaBarsi/DataHealth-AI)**
+**[Open Live Application](https://datahealth-ai.streamlit.app/)** | **[Explore Source Code & Documentation](https://github.com/LucaBarsi/DataHealth-AI)**
 
 - **112 synthetic patients** available through an interactive Streamlit web application.
 - **Clinical Assistant** combining patient-scoped SQL queries, document retrieval (RAG), and Qwen 3.5 4B, with source identifiers and evidence inspection.
